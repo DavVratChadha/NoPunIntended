@@ -1,4 +1,6 @@
 # WhySoPunny
+This project is the result of a joint effort by Alfred Xue, Daniel Deza, and Dav Vrat Chadha.
+
 ## Pun Detection using RoBERTa and DeBERTa
 This repository contains code for implementing RoBERTa and DeBERTa models to locate puns in a given sentence. In addition to the pun detection script, it also includes scripts for collecting and preprocessing data to train, validate and test the models.
 
@@ -17,6 +19,6 @@ To use this repository, clone it to your local machine and run the scripts provi
 ## Conclusion
 This repository provides a comprehensive set of tools for collecting, processing, and analyzing data related to puns in text, and can be used by researchers, data scientists, and NLP enthusiasts for further experimentation and development.
 
-
+#Credit
 Part of the data used to train this model was sources from SemEval-2017 Task 7 dataset.
 [SemEval-2017 Task 7: Detection and Interpretation of English Puns](https://aclanthology.org/S17-2005) (Miller et al., SemEval 2017)
