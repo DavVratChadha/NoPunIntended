@@ -19,6 +19,9 @@ To use this repository, clone it to your local machine and run the scripts provi
 ## Conclusion
 This repository provides a comprehensive set of tools for collecting, processing, and analyzing data related to puns in text, and can be used by researchers, data scientists, and NLP enthusiasts for further experimentation and development.
 
-#Credit
+# Credit
 Part of the data used to train this model was sources from SemEval-2017 Task 7 dataset.
 [SemEval-2017 Task 7: Detection and Interpretation of English Puns](https://aclanthology.org/S17-2005) (Miller et al., SemEval 2017)
+
+# Note
+These files came from different sources and have been combined together for the first time. The path to these files might not match the path declared in the .py and .ipynb files.
