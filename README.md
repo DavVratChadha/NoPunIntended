@@ -13,6 +13,9 @@ The collected data is preprocessed using techniques such as tokenization and POS
 ## Model Training and Testing
 The preprocessed dataset is used to fine-tune and test pretrained RoBERTa and DeBERTa models for pun detection. The pun detection script uses the trained models to provide predictions and metrics for each input sentence, indicating the presence and location of puns. The script also includes functionality for evaluating the accuracy and performance of the models using various metrics.
 
+## PunPal API
+The instructions to use this API are in the Python Notebook itself. This API predicts the Pun word and returns the cofidence for the prediction for RoBERTa, DeBERTa, and the Ensemble.
+
 ## Usage
 To use this repository, clone it to your local machine and run the scripts provided to collect, preprocess and train the data. The preprocessed dataset and trained models can then be used for pun detection.
 
