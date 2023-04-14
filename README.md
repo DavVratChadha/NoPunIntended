@@ -1,4 +1,4 @@
-# WhySoPunny
+# NoPunIntended
 This project is the result of a joint effort by Alfred Xue, Daniel Deza, and Dav Vrat Chadha.
 
 ## Pun Detection using RoBERTa and DeBERTa
