@@ -1,5 +1,5 @@
 # NoPunIntended
-This project is the result of a joint effort by Alfred Xue, Daniel Deza, and Dav Vrat Chadha.
+This project is the result of a joint effort by Daniel Deza, Dav Vrat Chadha, and Alfred Xue.
 
 ## PunPal API
 The instructions to use this API are in the Python Notebook itself. This API predicts the Pun word and returns the cofidence for the prediction for RoBERTa, DeBERTa, and the Ensemble.
